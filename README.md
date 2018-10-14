@@ -3,9 +3,9 @@
 ## Wiki Links
 | Section | Link|
 | :---: | :---: |
-| Readings | [link](Readings.md) |
-| blang | [link](blang.md) |
-| PyMC | [link](PyMC.md) |
+| Readings | [link](InfoHub.wiki/Readings.md) |
+| blang | [link](InfoHub.wikiblang.md) |
+| PyMC | [link](InfoHub.wikiPyMC.md) |
 
 
 ---
